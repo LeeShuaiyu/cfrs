@@ -12,15 +12,6 @@ cd cfrs
 pip install .
 ```
 
-### Directly via pip (if on PyPI)
-```bash
-pip install cfrs
-```
-
-### Development mode (for contributors)
-```bash
-pip install -e .
-```
 
 ## Usage Example
 
